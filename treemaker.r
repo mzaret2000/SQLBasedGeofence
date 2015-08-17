@@ -1,7 +1,7 @@
 library(RWeka)
 library(ggmap)
 
-query1 <- "https://querybuilder.uber.com/builder/jL9SKJEWNi"
+query1 <- Removed File
 query1 <- paste(strsplit(query1, "/")[[1]][5],".csv",sep="")
 
 setwd("/Users/mikezaret/Downloads")
